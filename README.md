@@ -1,6 +1,8 @@
 
 ### Olá! Eu sou Daniel Pinheiro!✌️✌️
 
+### Apaixonado por tecnologia💻, investimentos📊 e mercado financeiro📈!!
+
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-pinheiro-machado-9874329a/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dani_pinheiro13/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/dyelzim)
@@ -20,5 +22,5 @@
     <img align="center" alt= "php" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
 </div><br/>
 
-### Apaixonado por tecnologia💻, investimentos📊 e mercado financeiro📈!!
+
 
