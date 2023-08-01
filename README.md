@@ -5,6 +5,8 @@
 
 > I'm currently studying and carrying out Full Stack Web projects, using HTML, CSS, Github, Javascript, SQL and Typescript.
 
+## My networks
+
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-pinheiro-machado/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dani_pinheiro13/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/dyelzim)
