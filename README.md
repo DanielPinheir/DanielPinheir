@@ -3,7 +3,7 @@
 
 ### Passionate about technology💻, investments📊 and financial market📈!!
 
-> I'm currently studying and carrying out Full Stack Web projects, using HTML, CSS, Github, Javascript, SQL and Typescript.
+> I'm currently studying and carrying out Full Stack projects, using HTML, CSS, Javascript, Node, Git, SQL and Typescript.
 
 ## My networks
 
